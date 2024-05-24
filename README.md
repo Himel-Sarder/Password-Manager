@@ -15,7 +15,7 @@ To run the application, you need to have Python installed on your system. You ca
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/himel-sarder/password-manager.git
+    git clone https://github.com/Himel-Sarder/Password-Manager.git
     ```
 
 2. Navigate to the project directory:
