@@ -1,8 +1,12 @@
 # Password Manager
-![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/74c64d33-1923-4594-99b8-a89c4ef43bd5)
-![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/08fa9600-562f-41e8-a8bb-ce670039c28a)
-![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/a6573182-0fc1-4aee-a11e-dd6b28b0ae83)
-![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/22cee446-e078-4d73-a59f-54397ac68755)   
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/c014c0dd-592a-44b3-b281-dd6e96a6978f)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/2702c130-cc6d-4486-9786-75a3588a8701)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/f453d3ee-7b49-4cd7-9291-b0901e7164e7)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/802da781-170d-42ec-bf9c-c1a6c91817ff)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/0dd2da52-28e5-4c2a-a6aa-31d294ef0f64)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/8b50edc5-9862-45bf-8c32-860e5fe908ee)
+![image](https://github.com/Himel-Sarder/Password-Manager/assets/143216886/d6956489-3cc0-48e3-8efb-4c3558a8db86)
+
 
 This is a simple password manager application built using Python's Tkinter library. It allows users to generate secure passwords, store them along with website and email information, and manage their passwords easily.
 
@@ -41,6 +45,7 @@ To run the application, you need to have Python installed on your system. You ca
 3. Click on **Generate Password** to create a secure password or enter your own password.
 4. Click on **Add** to save the details.
 5. Your password details will be stored locally in a file named `data.txt`.
+6. Can search any Data using Search button.
 
 
 ## Developer
